@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <generator>RSS Builder by B!Soft</generator>
+    <title>Java Tutorial</title>
+    <link>https://pallu09520.github.io/PallaviRSS/javahyper.html</link>
+    <description>Our core Java programming tutorial is designed for students and working professionals. Java is an object-oriented, class-based, concurrent, secured and general-purpose computer-programming language. It is a widely used robust technology.</description>
+    <language>en-us</language>
+    <managingEditor>Pallavi Deshmukh</managingEditor>
+    <item>
+      <title>&lt;new&gt;</title>
+      <pubDate>Tue, 27 Feb 2024 17:58:33 +0500</pubDate>
+      <link>https://pallu09520.github.io/PallaviRSS/javahyper.html</link>
+      <description><![CDATA[Our core Java programming tutorial is designed for students and working professionals. Java is an object-oriented, class-based, concurrent, secured and general-purpose computer-programming language. It is a widely used robust technology.]]></description>
+    </item>
+  </channel>
+</rss>
